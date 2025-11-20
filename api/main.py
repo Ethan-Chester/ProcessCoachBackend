@@ -107,7 +107,7 @@ app = FastAPI()
 
 origins = [
     "http://localhost:3000",
-    "with-supabase-app-neon.vercel.app"
+    "https://with-supabase-app-neon.vercel.app/"
 ]
 
 
