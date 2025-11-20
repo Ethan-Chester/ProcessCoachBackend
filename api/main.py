@@ -106,7 +106,8 @@ Return only JSON.
 app = FastAPI()
 
 origins = [
-    "http://localhost:3000"
+    "http://localhost:3000",
+    "with-supabase-app-neon.vercel.app"
 ]
 
 
